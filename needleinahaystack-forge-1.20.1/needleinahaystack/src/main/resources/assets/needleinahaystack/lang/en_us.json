@@ -1,0 +1,13 @@
+{
+  "itemGroup.needleinahaystack": "Needle in a Haystack",
+  "block.needleinahaystack.giant_haystack": "Giant Haystack",
+  "item.needleinahaystack.hay_bundle": "Hay Bundle",
+  "item.needleinahaystack.needle": "The Needle",
+  "item.needleinahaystack.wooden_pitchfork": "Wooden Pitchfork",
+  "item.needleinahaystack.iron_pitchfork": "Iron Pitchfork",
+  "item.needleinahaystack.golden_pitchfork": "Golden Pitchfork",
+  "item.needleinahaystack.diamond_pitchfork": "Diamond Pitchfork",
+  "item.needleinahaystack.netherite_pitchfork": "Netherite Pitchfork",
+  "advancement.needleinahaystack.found.title": "Needle in a Haystack",
+  "advancement.needleinahaystack.found.desc": "Actually find the needle in the haystack"
+}

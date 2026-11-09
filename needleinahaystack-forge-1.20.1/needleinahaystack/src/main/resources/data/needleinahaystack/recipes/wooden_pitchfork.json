@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["P P", "PPP", " S "],
+  "key": { "P": { "tag": "minecraft:planks" }, "S": { "item": "minecraft:stick" } },
+  "result": { "item": "needleinahaystack:wooden_pitchfork" }
+}

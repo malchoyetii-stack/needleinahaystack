@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": { "item": "needleinahaystack:needle" },
+    "title": { "translate": "advancement.needleinahaystack.found.title" },
+    "description": { "translate": "advancement.needleinahaystack.found.desc" },
+    "background": "minecraft:textures/block/hay_block_side.png",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_needle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": [ "needleinahaystack:needle" ] } ] }
+    }
+  },
+  "requirements": [ [ "has_needle" ] ]
+}

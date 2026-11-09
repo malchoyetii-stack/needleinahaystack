@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["HHH", "HHH", "HHH"],
+  "key": { "H": { "item": "minecraft:hay_block" } },
+  "result": { "item": "needleinahaystack:giant_haystack" }
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="needleinahaystack"
+version="1.0.0"
+displayName="Needle in a Haystack"
+description='''
+Break the giant haystack to find the needle. Sell the hay to a Farmer villager to buy better pitchforks and break it even faster.
+'''
+
+[[dependencies.needleinahaystack]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.needleinahaystack]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
